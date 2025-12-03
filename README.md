@@ -113,7 +113,7 @@ These functions read content from various file types to feed into the AI.
 ## 📷 Example Screenshots
 
 **Upload Sidebar, Text Input & Chat Interaction**
-![Sidebar](ttps://github.com/surajksharma7/documind/blob/main/images/2.png)
+![DocuMind chat](https://github.com/surajksharma7/documind/blob/main/images/2.png)
 
 ## 💡 Use Cases
 
