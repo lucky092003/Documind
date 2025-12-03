@@ -8,8 +8,7 @@ import PyPDF2
 from docx import Document
 from typing import List
 
-# --- SETUP ---
-# Load API key from .env file
+
 load_dotenv()
 
 # Configure the OpenAI model
