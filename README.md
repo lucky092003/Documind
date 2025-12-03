@@ -2,7 +2,7 @@
 
 **DocuMind** is a powerful, multimodal AI study assistant built using Streamlit and OpenAI’s GPT models. It allows students, researchers, and lifelong learners to upload text, documents, and images and interactively ask questions, summarize, or extract key insights from their study materials.
 
-![DocuMind Banner](https://placehold.co/1200x300?text=DocuMind+-+AI+Study+Partner)
+![DocuMind Banner](https://github.com/surajksharma7/documind/blob/main/images/1.png)
 
 ---
 
@@ -112,13 +112,8 @@ These functions read content from various file types to feed into the AI.
 
 ## 📷 Example Screenshots
 
-**Upload Sidebar & Text Input**
-![Sidebar](https://placehold.co/600x400?text=Sidebar+with+upload+options)
-
-**Chat Interaction**
-![Chat](https://placehold.co/600x400?text=Chat+interface+with+AI+response)
-
----
+**Upload Sidebar, Text Input & Chat Interaction**
+![Sidebar](ttps://github.com/surajksharma7/documind/blob/main/images/2.png)
 
 ## 💡 Use Cases
 
