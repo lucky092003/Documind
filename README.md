@@ -56,14 +56,24 @@
 git clone https://github.com/lucky092003/Documind.git
 cd documind
 ```
-
-### **2. Install Dependencies**
+### **2. Create Virtual Environment**
 
 ```bash
-pip install -r requirements.txt
+python -m venv venv
+```
+### **3. Activate Virtual Environment**
+
+```bash
+venv\Scripts\Activate
 ```
 
-### **3. Configure OpenAI API Key**
+### **4. Install Dependencies**
+
+```bash
+pip install streamlit python-dotenv langchain-openai langchain-core PyPDF2 python-docx
+```
+
+### **5. Configure OpenAI API Key**
 
 Create a `.env` file in the root directory:
 
@@ -71,7 +81,7 @@ Create a `.env` file in the root directory:
 OPENAI_API_KEY=your_openai_api_key_here
 ```
 
-### **4. Run the App**
+### **6. Run the App**
 
 ```bash
 streamlit run app.py
