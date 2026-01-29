@@ -54,7 +54,7 @@
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/surajksharma7/documind.git
+git clone https://github.com/lucky092003/Documind.git
 cd documind
 ```
 
