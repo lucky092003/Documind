@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 DocuMind: AI Study Partner
 
 **DocuMind** is a powerful, multimodal AI study assistant built using Streamlit and OpenAI’s GPT models. It allows students, researchers, and lifelong learners to upload text, documents, and images and interactively ask questions, summarize, or extract key insights from their study materials.
@@ -144,3 +145,6 @@ MIT License © [Suraj Kumar Sharma](https://github.com/surajksharma7)
 For support, feedback, or contributions:
 **Email:** [surajksharma2304@gmail.com](mailto:surajksharma2304@gmail.com)
 **GitHub:** [github.com/surajksharma7](https://github.com/surajksharma7)
+=======
+# Documind
+>>>>>>> 51fea80c6bf5fb92a859a139fad15de2a108b1d3
