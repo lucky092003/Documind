@@ -3,7 +3,7 @@
 
 **DocuMind** is a powerful, multimodal AI study assistant built using Streamlit and OpenAI’s GPT models. It allows students, researchers, and lifelong learners to upload text, documents, and images and interactively ask questions, summarize, or extract key insights from their study materials.
 
-![DocuMind Banner](https://github.com/surajksharma7/documind/blob/main/images/1.png)
+![DocuMind Banner](https://github.com/lucky092003/Documind/blob/main/images/1.png)
 
 ---
 
