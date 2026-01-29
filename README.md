@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🧠 DocuMind: AI Study Partner
 
 **DocuMind** is a powerful, multimodal AI study assistant built using Streamlit and OpenAI’s GPT models. It allows students, researchers, and lifelong learners to upload text, documents, and images and interactively ask questions, summarize, or extract key insights from their study materials.
